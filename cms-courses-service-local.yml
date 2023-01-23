@@ -1,8 +1,8 @@
 application:
-  name: cms-users-service-local
+  name: cms-courses-service-local
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/cms_users_service
+    url: jdbc:postgresql://localhost:5432/cms_courses_service
     username: ''
     password: ''
   jpa:
